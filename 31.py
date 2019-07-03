@@ -1,2 +1,2 @@
 p=input()
-print((len(c))-(p.count(" ")))
+print((len(p))-(p.count(" ")))
