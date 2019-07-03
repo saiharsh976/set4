@@ -1,2 +1,2 @@
-s=input()
-print(len(s.split()))
+sdn=input()
+print(len(sdn.split()))
